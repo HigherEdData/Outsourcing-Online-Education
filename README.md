@@ -2,7 +2,7 @@
 
 ### By Laura T. Hamilton, Heather A. Daniels, Christian Michael Smith, and Charlie Eaton
 
-Hamilton, L. T., Daniels, H., Smith, C. M., & Eaton, C. (2024). The For-Profit Side of Public U: University Contracts with Online Program Managers. Socius, 10. https://doi.org/10.1177/23780231231214952
+Citation: Hamilton, L. T., Daniels, H., Smith, C. M., & Eaton, C. (2024). The For-Profit Side of Public U: University Contracts with Online Program Managers. *Socius*, 10. https://doi.org/10.1177/23780231231214952
 
 Summary: We draw on a dataset of 239 public university contracts that outsource online education to for-profit Online Program Managers (OPMs). We code structural features of the contracts that have been identified as potentially predatory.
 
